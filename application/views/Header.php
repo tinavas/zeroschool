@@ -56,74 +56,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <!-- Modernizr Scripts -->
     <script src="<?=base_url();?>javascript/vendor/modernizr-2.7.1.min.js"></script>
-	 <script src="http://code.jquery.com/jquery.js"></script>
-<script type="text/javascript">
-$(function() {
-  $('img').on('click','.closePopup', function() {
-    $('.popupElement').remove()
-  });
-
-  $(window).resize(function() {
-    var popup = $('#popupWindow');
-    if (popup.length > 0) {
-      centerPopup();
-    }
-  });
-
-  $('a').click(function(e) {
-    e.preventDefault();
-    var popup = $('<div/>').attr('id','popupWindow').addClass('popup').addClass('popupElement').css({left: '-999px'});
-    var html = '<a class="closePopup"></a><img src="' + $(this).attr('href') + '" /><div class="action"></div>';
-    popup.html(html);
-    $('body').append(popup);
-    centerPopup();
-  });
-});
-
-function centerPopup()
-{
-  var popup = $('#popupWindow');
-  var left = ($(window).width() - popup.width()) >> 1;
-  var top = ($(window).height() - popup.height()) >> 1;
-  popup.css({left: left + 'px', top: top + 'px'});
-}
-</script>
-<style type="text/css">
-
-.popup {
-  background: #fff;
-  border: 2px solid #333;
-  border-radius: 5px;
-  padding: 10px;
-  position: absolute;
-  z-index: 1000;
-}
-.popup img {
-  display: block;
-  margin-bottom: 15px;
-}
-.popup div.action {
-  text-align: right;
-}
-.popup div.action input {
-  background: red;
-  color: white;
-  border: red;
-}
-.closePopup {
-	position: absolute;
-	display: block;
-	width: 32px;
-	height: 32px;
-	background: url(images/close-button.png) no-repeat 0 0;
-	right: -16px;
-	top: -16px;
-}
-</style>
-</head>
-<body>
-<p>Call Us Now <br>+91 755 405 3276<br>+91 810 906 9226</p>
-</body>
 	
   </head>
   
@@ -164,7 +96,7 @@ function centerPopup()
           <ul class="nav navbar-nav navbar-right">
             <li><a href="<?=base_url();?>Front/form" class="btn btn-danger" style="background-color:#E58121; color:white;border-color:#E58121" role="button"> TRY OUR DEMO
            </span></a></li>
-		   <li><img src="<?=base_url();?>images/feature_icon/42.png"><a href="<?=base_url();?>Front/new"> </li>
+		   <li><img src="<?=base_url();?>images/feature_icon/42.png"> </li>
           </ul>
         </div><!--/.nav-collapse -->
     
