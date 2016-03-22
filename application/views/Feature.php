@@ -2,7 +2,7 @@
 <div class="col-lg-12 col-md-12 col-sm-12">
 <Body style="background-color:#ffffe6">
  <span class="Centerer"></span>
-<img class="img-logo" src="<?=base_url();?>images/school_logo.png" style="display: block; margin: 0 auto; margin-top:60px;height:120px; width:120px"alt="">
+<img class="img-logo" src="<?=base_url();?>images/school_logo.png" style="display: block; margin: 0 auto; margin-top:80px;height:120px; width:120px"alt="">
 <h3 style="fontfamily:comic sans MS;color:#ff3300;text-align:center;margin-top:30px">ZeroERP Education Software</h3>
 <h4 style="fontfamily:comic sans MS;color:grey;text-align:center;margin-top:20px;margin-bottom:60px">One stop answer to the needs of managing an educational institute, Be it a School, college or Coaching center.</h4>
 <p style="margin-bottom:20px">ZeroERP school management software is a complete cloud based school management system that automates the routine tasks for a teacher and enables communication between teacher and Students/parents.It has all the feature that is required by an institute to run smoothly.
@@ -380,12 +380,12 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </div>
 
 
-<div class="col-lg-12 col-md-12 col-sm-12" id="future_feature">
+<div class="col-lg-12 col-md-12 col-sm-12">
 <hr style="color:black;margin-top:90px">
 <h4 style="fontfamily:comic sans MS;color:#ff3300;text-align:center;margin-top:50px">Our Upcoming Features</h4>
 <hr style="color:black">
 <div class="col-lg-4 col-md-4 col-sm-4">
-<ul class="list-unstyled" style="margin-bottom:150px">
+<ul class="list-unstyled" style="margin-bottom:20px">
 <li><img src="<?=base_url();?>images/feature_icon/32.png"><a title="In future version dashboard would be customisable which will allow you to access your favourite and important task in a quick manner">Customisable dashboard</a></li>
 <li><img src="<?=base_url();?>images/feature_icon/34.png"><a title="Important news and lates happenings about institute can be easily distributed over students, teacher and other staff">News management</a></li>
 <li><img src="<?=base_url();?>images/feature_icon/35.png"><a title=" Assign and track task assigned to student , teacher or other employee">Task</a></li>
@@ -394,7 +394,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-4 col-md-4 col-sm-4">
-<ul class="list-unstyled" style="margin-bottom:150px">
+<ul class="list-unstyled" style="margin-bottom:20px">
 <li><img src="<?=base_url();?>images/feature_icon/38.png"><a title=" To manage all your hostel and residential facilities in campus .Along with it keep record of hostel fee, students residing and easily generate report">Hostel</a></li>
 <li><img src="<?=base_url();?>images/feature_icon/40.png"><a title="keep record of recruitments happening in your campus along with students placement information">Placement</a></li>
 <li><img src="<?=base_url();?>images/feature_icon/33.png"><a title = "Add some color to your zero ERP and customize it to your institution signifying color">Theme</a></li>
@@ -403,7 +403,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-4 col-md-4 col-sm-4">
-<ul class="list-unstyled" style="margin-bottom:150px">
+<ul class="list-unstyled" style="margin-bottom:20px">
 <li><img src="<?=base_url();?>images/feature_icon/37.png"><a title="Will provide reminder facility to user ">Reminder</a></li>
 <li><img src="<?=base_url();?>images/feature_icon/34.png"><Monitor user activity on real time">Audit</a></li>
 <li><img src="<?=base_url();?>images/feature_icon/33.png"><a title ="Will provide space to student, teacher and other user to express their views, share problems and give suggestion to improve institute">Blog</a></li>
