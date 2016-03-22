@@ -74,7 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<?=base_url();?>Front/index">ZeroERP Education</a>
+          <a class="navbar-brand" style="min-height: inherit" href="<?=base_url();?>Front/index">ZeroERP Education</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
