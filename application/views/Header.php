@@ -33,29 +33,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link rel="stylesheet" href="<?=base_url();?>/scss/extracss/xenon-forms.css">
 	<link rel="stylesheet" href="<?=base_url();?>/scss/extracss/xenon-components.css">
 	<link rel="stylesheet" href="<?=base_url();?>/scss/extracss/xenon-skins.css">	
-	
-	
-	
-    <!-- Favicons -->
-	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link href="<?=base_url();?>images/favicon/favicon.png" rel="shortcut icon">
-    <link href="<?=base_url();?>images/favicon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon">
-    <link href="<?=base_url();?>images/favicon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
-    <link href="<?=base_url();?>images/favicon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="114x114">
 
-
+	<!-- Navbar -->
 	
-    <!-- Navbar -->
-	 <link href="<?=base_url();?>stylesheets/navbar.css" rel="stylesheet">
+	<link href="<?=base_url();?>stylesheets/navbar.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
-    <!-- Modernizr Scripts -->
-    <!--<script src="<?=base_url();?>javascript/vendor/modernizr-2.7.1.min.js"></script>-->
+   
 	
   </head>
   
