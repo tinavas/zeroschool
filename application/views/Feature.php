@@ -10,7 +10,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 
 <p>ZeroERP has  different modules for different purpose. Each module is designed in a manner to provide easy functionality to its user.It provides facility to manage Admission, Timetable, Attendance, Examinations, Homework, Library, Transportation, School Calendar, Events and many more.  The Fee Payment module helps you to plan and allot different fee structures to students. There is a ZeroERP app which can be downloaded through play store and can be used to track students record.Parent and teacher can communicate via instant messaging through Mobile App for attendance tracking. To find out more, scroll through the following descriptions, try the free demo or contact sales.</p>
 
-<img src="<?=base_url();?>images/iphone/12.png" style="display: block; margin: 0 auto;margin-top:40px;height:280px;width:410px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/12.png" style="display: block; margin: 0 auto;margin-top:40px;height:280px;width:410px"></img>
 
 <hr style="color:black;margin-top:90px">
 <h4 style="fontfamily:comic sans MS;color:#ff3300;text-align:center;margin-top:20px">Available Features</h4>
@@ -67,8 +67,8 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </div>
 
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/regis.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
-<img src="<?=base_url();?>images/iphone/admission.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/regis.png" style="  margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/admission.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
@@ -96,8 +96,8 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/calender1.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
-<img src="<?=base_url();?>images/iphone/calender.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/calender1.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/calender.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 </div>
 </div>
 
@@ -115,7 +115,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/login.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/login.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
@@ -137,8 +137,8 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/attendence.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
-<img src="<?=base_url();?>images/iphone/stuattendence.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/attendence.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/stuattendence.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 </div>
 </div>
 
@@ -162,8 +162,8 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/fee.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
-<img src="<?=base_url();?>images/iphone/expense.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/fee.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/expense.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 </div>
 </div>
 
@@ -184,7 +184,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/msg1.png" style="margin-left:20px; margin-top:40px;height:300px;width:250px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/msg1.png" style="margin-left:20px; margin-top:40px;height:300px;width:250px"></img>
 
 </div>
 </div>
@@ -208,7 +208,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/exam.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/exam.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
@@ -228,7 +228,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/homework.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/homework.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
@@ -251,8 +251,8 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/book.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
-<img src="<?=base_url();?>images/iphone/book1.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/book.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/book1.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 </div>
 </div>
 
@@ -273,8 +273,8 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/transport.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
-<img src="<?=base_url();?>images/iphone/transport1.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive"src="<?=base_url();?>images/iphone/transport.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive"src="<?=base_url();?>images/iphone/transport1.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 </div>
 </div>
 
@@ -290,7 +290,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/staff.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/staff.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 </div>
 </div>
 
@@ -309,7 +309,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/login.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/login.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
@@ -327,7 +327,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/report.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/report.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
@@ -355,8 +355,8 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
 
-<img src="<?=base_url();?>images/iphone/account.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
-<img src="<?=base_url();?>images/iphone/permission.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/account.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/permission.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
@@ -374,7 +374,7 @@ ZeroERP provides simple and easy to use dashboards with login access for teacher
 </ul>
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6">
-<img src="<?=base_url();?>images/iphone/report.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
+<img class="img-responsive" src="<?=base_url();?>images/iphone/report.png" style="margin-left:20px; margin-top:40px;height:250px;width:350px"></img>
 
 </div>
 </div>
