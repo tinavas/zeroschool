@@ -12,15 +12,7 @@
              <a href="<?=base_url();?>Front/form" class="btn btn-danger" style="margin-top:10px" role="button">TRY OUR DEMO</a>
             </section>
 
-            <!-- AddThis Button 
-            <ul class="addthis_toolbox addthis_default_style">
-
-              <li><a class="addthis_button_facebook_like"></a></li>
-              <li><a class="addthis_button_tweet"></a></li>
-
-            </ul> <!-- /.addthis_toolbox 
-            <script>var addthis_config = {"data_track_addressbar":true};</script>
-            <script src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-533f6ac03b59c72a"></script>-->
+            
 
           </div> <!-- /.col-md-4 -->
 
@@ -69,11 +61,8 @@
 	<script src="<?=base_url();?>/scss/extrajs/bootstrap.min.js"></script>
 	<script src="<?=base_url();?>/scss/extrajs/jquery.validate.min.js"></script>
 	<script src="<?=base_url();?>/scss/extrajs/xenon-custom.js"></script>
-	 <!-- Modernizr Scripts -->
-    <!--<script src="<?=base_url();?>javascript/vendor/modernizr-2.7.1.min.js"></script>-->
 	
-	<!---navbar---------------------->
-	<!--<script src="<?=base_url();?>/../scss/bootstrap.min.js"></script>-->
+	
 	
 
    
