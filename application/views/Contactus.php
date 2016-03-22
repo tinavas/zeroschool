@@ -106,7 +106,7 @@
 								</div>
 								
 						<div class="col-sm-12" >
-						<input type="submit"  class="btn btn-danger" value="submit" style="margin-top:30px; margin-left:300px;"></input>
+						<input type="submit"  class="btn btn-danger" value="submit" style="margin-top:30px;  float:right"></input>
 						</div>
 					</div>
 					</form>
