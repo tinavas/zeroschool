@@ -1,17 +1,3 @@
- <!-- Placed at the end of the document so the pages load faster -->
-    <script src="<?=base_url();?>/javascript/vendor/jquery-2.1.0.min.js"></script>
-    <script src="<?=base_url();?>/javascript/assets/application.js"></script>
-	<script src="<?=base_url();?>/javascript/jquery.min.js"></script>
-
-	
-	<!--------extra js--------------------------------->
-	<script src="<?=base_url();?>/scss/extrajs/bootstrap.min.js"></script>
-	<script src="<?=base_url();?>/scss/extrajs/jquery.validate.min.js"></script>
-	<script src="<?=base_url();?>/scss/extrajs/xenon-custom.js"></script>
-	
-	<!---navbar---------------------->
-	<!--<script src="<?=base_url();?>/../scss/bootstrap.min.js"></script>-->
-	
 	<!-- Footer -->
     <footer class="footer-section" role="contentinfo">
 
@@ -70,6 +56,26 @@
       </div> <!-- /.container -->
 
     </footer> <!-- /.footer-section -->
+
+
+
+ <!-- Placed at the end of the document so the pages load faster -->
+    <script src="<?=base_url();?>/javascript/vendor/jquery-2.1.0.min.js"></script>
+    <script src="<?=base_url();?>/javascript/assets/application.js"></script>
+	<script src="<?=base_url();?>/javascript/jquery.min.js"></script>
+
+	
+	<!--------extra js--------------------------------->
+	<script src="<?=base_url();?>/scss/extrajs/bootstrap.min.js"></script>
+	<script src="<?=base_url();?>/scss/extrajs/jquery.validate.min.js"></script>
+	<script src="<?=base_url();?>/scss/extrajs/xenon-custom.js"></script>
+	 <!-- Modernizr Scripts -->
+    <!--<script src="<?=base_url();?>javascript/vendor/modernizr-2.7.1.min.js"></script>-->
+	
+	<!---navbar---------------------->
+	<!--<script src="<?=base_url();?>/../scss/bootstrap.min.js"></script>-->
+	
+
    
   </body>
 </html>
