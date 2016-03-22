@@ -96,13 +96,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <ul class="nav navbar-nav navbar-right">
             <li><a href="<?=base_url();?>Front/form" class="btn btn-danger" style="background-color:#E58121; color:white;border-color:#E58121" role="button"> TRY OUR DEMO
            </span></a></li>
-		   <li><img src="<?=base_url();?>images/feature_icon/42.png"> </li>
+		   <!--<li><img src="<?=base_url();?>images/feature_icon/42.png"> </li>-->
           </ul>
         </div><!--/.nav-collapse -->
     
     </nav>
 	
-<div class="modal hide" id="myModal"><!-- note the use of "hide" class -->
+<!--<div class="modal hide" id="myModal"><!-- note the use of "hide" class 
   <div class="modal-header">
     <button class="close" data-dismiss="modal">×</button>
     <h3>Call Us Now</h3>
@@ -111,7 +111,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <p>>+91 755 405 3276<br>+91 810 906 9226</p>
   </div>
   <div class="modal-footer">
-    <a href="#" class="btn" data-dismiss="modal">Close</a><!-- note the use of "data-dismiss" -->
+    <a href="#" class="btn" data-dismiss="modal">Close</a><!-- note the use of "data-dismiss" 
     <a href="#" class="btn btn-primary">Save changes</a>
   </div>
-</div>​
+</div>​-->
