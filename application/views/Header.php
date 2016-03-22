@@ -55,7 +55,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <![endif]-->
 
     <!-- Modernizr Scripts -->
-    <script src="<?=base_url();?>javascript/vendor/modernizr-2.7.1.min.js"></script>
+    <!--<script src="<?=base_url();?>javascript/vendor/modernizr-2.7.1.min.js"></script>-->
 	
   </head>
   
