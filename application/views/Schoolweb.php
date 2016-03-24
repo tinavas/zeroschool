@@ -99,7 +99,7 @@
 
             <!-- Description -->
 			<ul class="list-unstyled">
-            <li style="padding:3px" > <i class="fa fa-envelope-o">Admission Management</i></li>
+            <li style="padding:3px" > <i class="icon-asterisk">Admission Management</i></li>
 				<li style="padding:3px" ><i class="icon-inr">Fees Management</i></li>
 				<li style="padding:3px" ><i class="icon-truck">Transport Management</i></li>
 				</ul>

@@ -26,8 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link href="<?=base_url();?>scss/extracss/bootstrap.min.css" rel="stylesheet">
 	<link href="<?=base_url();?>scss/navbar.css" rel="stylesheet">
 	<link rel="stylesheet" href="<?=base_url();?>/scss/extracss/xenon-core.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-	
+
 	
     <!-- Favicons -->
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">

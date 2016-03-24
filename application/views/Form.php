@@ -31,7 +31,7 @@
 									
 									
 								<div class="col-sm-8"style="margin-top:10px">
-									<input type="text" class="form-control" data-validate="number,minlength[10]" name="No" "id="field-1" placeholder=" Mobile No">
+									<input type="text" class="form-control" data-validate="required,number,minlength[10]" name="No" "id="field-1" placeholder=" Mobile No">
 								</div>
 							
 								
