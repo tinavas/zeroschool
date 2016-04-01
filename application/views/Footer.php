@@ -20,7 +20,7 @@
             
             <!--Footer 1 -->
             <section class="text-center">
-              <p>Be sure to read <a href="#">Terms</a> and <a href="#">Privacy Policy</a>.</p>
+              <p>Be sure to read <a href="<?=base_url();?>Front/terms">Terms</a> and <a href="<?=base_url();?>Front/terms">Privacy Policy</a>.</p>
             </section>
 
             <!-- Social media links -->

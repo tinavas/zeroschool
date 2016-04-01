@@ -45,6 +45,14 @@ class Front extends CI_Controller {
 		$this->load->view('Contactus');
 		$this->parser->parse('Footer',$this->data);
 	}
+	function terms()
+	{
+		$this->parser->parse('Header',$this->data);
+		$this->load->view('Terms');
+		$this->parser->parse('Footer',$this->data);
+	}
+	
+	
 	function About()
 	{
 		$this->parser->parse('Header',$this->data);
