@@ -27,9 +27,9 @@
 
             <!-- Logo -->
             <figure class="text-center">
-              <a href="./index.html">
+            
                 <img class="img-logo" src="<?=base_url();?>images/school_logo.png" style="height:120px; width:120px"alt="">
-              </a>
+             
             </figure> <!-- /.text-center -->
 
             <!-- Title -->

@@ -9,7 +9,7 @@
             
             <!-- Footer 1 -->
             <section>
-             <a href="<?=base_url();?>Front/form" class="btn btn-danger" style="margin-top:10px" role="button">TRY OUR DEMO</a>
+             <a href="<?=base_url();?>Front/form" class="btn btn-danger" style="margin-top:10px" role="button">ANY QUERY</a>
             </section>
 
             

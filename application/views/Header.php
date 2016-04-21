@@ -80,7 +80,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <li><a href="<?=base_url();?>Front/Contactus">Contact us</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="<?=base_url();?>Front/form" class="btn btn-danger" style="background-color:#E58121; color:white;border-color:#E58121" role="button"> TRY OUR DEMO
+            <li><a href="<?=base_url();?>Front/form" class="btn btn-danger" style="background-color:#E58121; color:white;border-color:#E58121" role="button"> ANY QUERY
            </span></a></li>
 		   <!--<li><img src="<?=base_url();?>images/feature_icon/42.png"> </li>-->
           </ul>
