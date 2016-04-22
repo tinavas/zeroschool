@@ -1,4 +1,6 @@
-
+<meta name="description" content="ZeroERP education is a complete cloud based school management system which helps school manage complex functions such as fees, results, attendance, library, stock, timetable, staff, salary and other notifications. ">
+<meta name="title" content=" School and College management android application | ZeroERP education ">
+</head>
   <body class="index" id="to-top">
 
     <!-- Side nav -->

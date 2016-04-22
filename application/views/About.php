@@ -1,3 +1,8 @@
+
+<meta name="description" content="ZeroERP education is a school management software & management information system used by education institutions worldwide for administration & management related activities.">
+<meta name="title" content="  About | ZeroERP Education ">
+</head>
+
 <div class="container">
 
 <Body style="background-color:#ffffe6">	

@@ -12,9 +12,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Meta -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="">
+    <meta name="keywords" content="ZeroERP education, school management application, college management application, school management software android, andriod, college management application, College management software, ZeroERP school application, android app for school,zero erp education features, student admission, event and calender, student attendence management, staff attendence management, exam management, homework management, library management, messaging system, reporting system, student remarks, ZeroERP education is a school management software & management information system used by education institutions worldwide for administration & management related activities">
+    <meta name="author" content="ZeroERP education">
     <meta name="googlebot" content="index,follow">
 
     <!-- Title -->
@@ -40,7 +39,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
-  </head>
   
   
   
