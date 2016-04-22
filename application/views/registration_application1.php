@@ -91,7 +91,7 @@
 </div><!-- /.modal -->
 
  
-<div class="row schoolform" >
+<div class="row schoolform" style="margin-top:100px" >
 	<div class="col-sm-12" />
 <h2>Registration for your application</h2>
 		<form role="form" class="form-horizontal" method="post" action="<?=base_url();?>login/set_registration_application">
