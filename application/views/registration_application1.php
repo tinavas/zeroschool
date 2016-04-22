@@ -157,7 +157,7 @@
 			</div>
 			
 			<div class="form-group">
-				<label class="col-sm-6 control-label" for="field-1"><b>If Application Registration Detail Is different So Please uncheck Checkbox</b> </label>
+				<label class="col-sm-12 control-label" for="field-1"><b>If Application Registration Detail Is different So Please uncheck Checkbox</b> </label>
 			</div>
 			<div class="form-group">
 				<div class="col-sm-4" align="center">
