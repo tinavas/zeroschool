@@ -71,7 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               </ul>
             </li>
 			
-			 <li><a href="http://junctiondev.cloudapp.net/appmanager/login/registration_application?id=School">Register and Use free</a></li>
+			 <li><a href="<?=base_url();?>Front/registration">Register and Use </a></li>
 				  
 			 <li><a href="<?=base_url();?>Front/About">Company</a></li>
 				  

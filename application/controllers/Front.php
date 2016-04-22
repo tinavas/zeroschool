@@ -59,6 +59,12 @@ class Front extends CI_Controller {
 		$this->load->view('About');
 		$this->parser->parse('Footer',$this->data);
 	}
+		function Registration()
+	{
+		$this->parser->parse('Header',$this->data);
+		$this->load->view('registration_application1');
+		$this->parser->parse('Footer',$this->data);
+	}
 
 function insert(){
 	
