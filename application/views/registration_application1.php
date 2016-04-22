@@ -2,8 +2,8 @@
 <!-- add organization body starts -->
 <Body style="background-color:#ffffe6">
 <div class="container">
-<img class="img-logo" src="<?=base_url();?>images/school_logo.png" style="display: block; margin: 0 auto; margin-top:100px;height:120px; width:120px"alt="">
-<h1 style="font-family:comic sans MS;color:#ff3300;text-align:center;margin-top:30px">ZeroERP Education Software</h1>
+<img class="img-logo" src="<?=base_url();?>images/school_logo.png" style="display: block; margin: 0 auto; margin-top:70px;height:120px; width:120px"alt="">
+<h1 style="font-family:comic sans MS;color:#ff3300;text-align:center;margin-top:20px">ZeroERP Education Software</h1>
 <!--  <div class="page-loading-overlay">
 	<div class="loader-2"></div>
 </div>-->
