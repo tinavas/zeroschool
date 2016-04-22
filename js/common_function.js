@@ -67,7 +67,7 @@ function check_dbname(dbname,id)
 		 return false;
 }
 
-  
+
 function myfunction()
 {
 			var name =document.getElementById('name').value;
