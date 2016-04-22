@@ -200,7 +200,7 @@
 			
 			<div class="form-group">
 			<div class="col-sm-10" style="left:140px;top:20px "">
-			<a class="btn btn-success" style="color:black;background-color:#E58121;font-size:1.1em;" data-toggle="modal" data-target="#modal-8">  Terms and condition</a>
+			<a class="btn btn-success" style="color:white;background-color:#E58121;font-size:1.1em;" data-toggle="modal" data-target="#modal-8">  Terms and condition</a>
 			
 			
 			</div>
@@ -215,7 +215,7 @@
 			</div>
 	<div class="form-group">
 	<div class="col-sm-10" style="left:140px;top:20px;margin-bottom:40px">
-		<button type="submit" class="btn btn-white" style="color:black;background-color:#E58121;font-size:1.1em" >Submit</button>
+		<button type="submit" class="btn btn-white" style="color:white;background-color:#E58121;font-size:1.1em" >Submit</button>
 		<button type="reset" class="btn btn-white"
 			onClick="window.history.back();">Cancel</button>
 			</div>
