@@ -55,7 +55,7 @@
     <script src="<?=base_url();?>/javascript/vendor/jquery-2.1.0.min.js"></script>
     <script src="<?=base_url();?>/javascript/assets/application.js"></script>
 	<script src="<?=base_url();?>/javascript/jquery.min.js"></script>
-
+	<script src="<?=base_url();?>/js/common_function.js"></script>
 	
 	<!--------extra js--------------------------------->
 	<script src="<?=base_url();?>/scss/extrajs/bootstrap.min.js"></script>
