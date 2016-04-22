@@ -3,7 +3,7 @@
 <Body style="background-color:#ffffe6">
 
 <img class="img-logo" src="<?=base_url();?>images/school_logo.png" style="display: block; margin: 0 auto; margin-top:100px;height:120px; width:120px"alt="">
-<h1 style="fontfamily:comic sans MS;color:#ff3300;text-align:center;margin-top:30px">ZeroERP Education Software</h1>
+<h1 style="fontfamily:Brush Script MT;color:#ff3300;text-align:center;margin-top:30px">ZeroERP Education Software</h1>
 <h2 style="fontfamily:comic sans MS;color:grey;text-align:center;margin-top:20px;margin-bottom:60px">One stop answer to the needs of managing an educational institute, Be it a School, college or Coaching center.</h2>
 <p style="margin-bottom:20px">ZeroERP school management software is a complete cloud based school management system that automates the routine tasks for a teacher and enables communication between teacher and Students/parents.It has all the feature that is required by an institute to run smoothly.
 ZeroERP provides simple and easy to use dashboards with login access for teachers, non-teaching staff, students, parents and management personnel of your institution. The various features available in ZeroERP provides all the facility from managing admission , fee ,transport facility to managing staff and many more processes of your institute.</p>

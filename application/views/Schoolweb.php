@@ -99,9 +99,9 @@
 
             <!-- Description -->
 			<ul class="list-unstyled">
-            <li style="padding:3px" > <i class="icon-asterisk">Admission Management</i></li>
-				<li style="padding:3px" ><i class="icon-inr">Fees Management</i></li>
-				<li style="padding:3px" ><i class="icon-truck">Transport Management</i></li>
+            <li> <i class="icon-asterisk">Admission Management</i></li>
+				<li style="margin-left:-36px" ><i class="icon-inr">Fees Management</i></li>
+				<li style="margin-right:10px" ><i class="icon-truck">Transport Management</i></li>
 				</ul>
 				<a href="<?=base_url();?>Front/feature" class="btn btn-danger" style="margin-top:10px" role="button">Explore More Features</a>
 
