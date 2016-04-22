@@ -2,7 +2,7 @@
 <div class="col-lg-12 col-md-12 col-sm-12">
 <Body style="background-color:#ffffe6">
 <h3 style="fontfamily:comic sans MS;color:#ff3300;text-align:center;margin-top:100px;margin-bottom:30px"><img class="img-logo" src="<?=base_url();?>images/school_logo.png" style="margin-right:15px;height:120px; width:120px"alt="">Try our ZeroERP Education Software</h3>
-<h4 style="text-align:center"> Need to fill a simple form</h4>
+
  <div class="panel-body">
 							
 							<form role="form" class="validate" method="post" style="margin-bottom:60px" action="<?=base_url();?>front/insert">
